@@ -1,6 +1,6 @@
 # 🚀 [Your Name] - Portfolio  
 
-![Portfolio Screenshot](./screenshot.png) *(Add a screenshot later)*  
+![Portfolio Screenshot](./screenshot.png)  
 
 A responsive personal portfolio website to showcase my projects, skills, and experience.  
 
