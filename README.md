@@ -1,6 +1,7 @@
-# 🚀 [Your Name] - Portfolio  
+# 🚀 Sreevishnu v - Portfolio  
 
-![Portfolio Screenshot](./screenshot.png)  
+![Portfolio Screenshot](![personalportfolio](https://github.com/user-attachments/assets/a064db0d-bad0-4f72-bcbb-0ac2372a0ca2)
+)  
 
 A responsive personal portfolio website to showcase my projects, skills, and experience.  
 
